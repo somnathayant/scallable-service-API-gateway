@@ -1,1 +1,1 @@
-# scallable-service-API-gateway
+Please import as maven project 
